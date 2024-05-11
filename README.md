@@ -1,3 +1,5 @@
+<img width=100% src="https://github.com/ViniciusFXavier/RoboAdvisor/assets/40774281/c378c9e7-a6e9-4125-a743-963c91a87e81"/>
+
 # RoboAdvisor: Seu Assistente Inteligente de Investimentos
 
 ### **Tome o controle do seu futuro financeiro com o RoboAdvisor, seu assessor de investimentos personalizado, guiado por inteligência artificial!**
